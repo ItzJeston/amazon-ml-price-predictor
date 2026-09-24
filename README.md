@@ -38,20 +38,22 @@ How to Run:
 
 Follow these steps to set up the environment and run the pipeline locally:
 
+In Command prompt or git bash run these commands:
+
 1)Clone the repository:
-Bash
+
 git clone https://github.com/ItzJeston/ml-price-predictor.git
 
 2)Navigate to the directory:
-Bash
+
 cd ml-price-predictor
 
 3)Install required libraries:
-Bash
+
 pip install pandas numpy scikit-learn
 
 4)Execute the pipeline:
-Bash
+
 python baseline_pipeline.py
 
 
