@@ -1,13 +1,16 @@
 E-Commerce Product Price Predictor
+
 An end-to-end supervised machine learning pipeline designed to predict continuous variables (product prices) 
 from raw e-commerce catalog data. Built as a foundational architecture for algorithmic pricing models.
 
 Problem Statement
+
 Digital marketplaces process massive amounts of unstructured product metadata. This project addresses the challenge
 of handling messy, real-world e-commerce datasets by converting unstructured text into predictive numerical features 
 to accurately forecast market prices.
 
 Dataset & Technical Approach
+
 1)Automated Data Cleaning: Drops missing target labels, handles NaN ingestion, and deduplicates records based on unique 
 matrix IDs.
 
